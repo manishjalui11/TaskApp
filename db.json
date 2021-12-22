@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Doctor's appointment",
+      "day": "2021-10-17T12:00",
+      "priority": false,
+      "id": 1
+    },
+    {
+      "text": "Attend lecture",
+      "day": "2021-10-11T09:45",
+      "priority": false,
+      "id": 2
+    },
+    {
+      "text": "Family dinner",
+      "day": "2021-10-11T09:45",
+      "priority": false,
+      "id": 3
+    }
+  ]
+}
