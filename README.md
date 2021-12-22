@@ -7,7 +7,7 @@ TaskApp is a simple task app to note down your tasks
 - Mark as important task
 - Edit task
 
-And of course BlogApp itself is open source with a [public repository][dill]
+And of course TaskApp itself is open source with a [public repository][dill]
  on GitHub.
 
 [dill]: <https://github.com/manishjalui11/TaskApp>
