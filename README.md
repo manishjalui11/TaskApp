@@ -10,7 +10,7 @@ This is a blog app powered by react
 And of course BlogApp itself is open source with a [public repository][dill]
  on GitHub.
 
-[dill]: <https://github.com/manishjalui11/Django_BlogApp>
+[dill]: <https://github.com/manishjalui11/TaskApp>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
