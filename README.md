@@ -1,5 +1,5 @@
 # TaskApp
-This is a blog app powered by react
+TaskApp is a simple taks app to note down your tasks
 
 ## Features
 
