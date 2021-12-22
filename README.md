@@ -1,5 +1,5 @@
 # TaskApp
-TaskApp is a simple taks app to note down your tasks
+TaskApp is a simple task app to note down your tasks
 
 ## Features
 
