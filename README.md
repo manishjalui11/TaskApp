@@ -3,9 +3,9 @@ This is a blog app powered by react
 
 ## Features
 
-- Add and delete blog post
-- View someone else blog
-- Can add comment to that blog
+- Add and delete task
+- Mark as important task
+- Edit task
 
 And of course BlogApp itself is open source with a [public repository][dill]
  on GitHub.
